@@ -1,2 +1,3 @@
 # emerging_rers
-Replication files for Rothert (2019) 
+Replication files for Rothert (2019): 
+
