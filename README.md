@@ -1,7 +1,7 @@
 # Intl Business Cycles in Emerging Markets - IER 2019
 Replication files for Rothert (2019): 
 
-Description of files for Section 2: Empirical motivation - RERs in emerging economies
+Section 2: Empirical motivation - RERs in emerging economies
 ----------------------------------------------------------------------------------------------------------------------------------
 1) ier2018_dataset.dta - quarterly national accounts, exchange rates, real exchange rates, interest rates data
 sources: OECD, IFS, BoP
