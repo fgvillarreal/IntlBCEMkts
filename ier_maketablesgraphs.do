@@ -147,8 +147,6 @@ local i = `i'+1
 
 
 
-/*
-
 local varlista_xc_rex = "gdp con nxy iratio inv irate"
 local varlista_xc_gdp = "con nxy iratio inv irate"
 local varlista_xc_irate = "con nxy iratio inv"
@@ -1840,11 +1838,3 @@ graph save corr_con_rex_usa.gph, replace
 graph export corr_con_rex_usa.pdf, as(pdf) replace
 graph export corr_con_rex_usa.eps, as(eps) replace
 * -----------------------------------------------------------------------------------------------------------------------------
-
-
-
-reg yy xx xx2
-
-*/
-
-matrix list TABLE1
