@@ -1,4 +1,4 @@
-# Section 2: Empirical motivation - RERs in emerging economies
+# Description of files
 ----------------------------------------------------------------------------------------------------------------------------------
 1) ier2018_dataset.dta - quarterly national accounts, exchange rates, real exchange rates, interest rates data
 sources: OECD, IFS, BoP
