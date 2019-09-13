@@ -10,5 +10,9 @@ created from bulk downloads in 2018 using "ier_makedata.do"
 
 3) "ier_mainfile.do" - do-file for the computation of business cycles statistics for individual countries and group averages
 
-4) "ier_maketablesgraphs.do" - do-file for creating tables and graphs
+4) "ier_maketablesgraphs.do" - do-file for creating tables and graphs; saves tables with results to "data_results_hp.xlsx"
+
+5) "data_results_hp.xlsx" - Excel file with results
+
+6) "create_cross_"
 ----------------------------------------------------------------------------------------------------------------------------------
