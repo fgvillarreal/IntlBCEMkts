@@ -14,5 +14,5 @@ created from bulk downloads in 2018 using "ier_makedata.do"
 
 5) "data_results_hp.xlsx" - Excel file with results
 
-6) "create_cross_"
-----------------------------------------------------------------------------------------------------------------------------------
+6) "create_cross_correlation_graphs.m" - Matlab file that reads "data_results_hp.xlsx" to create Figure 3 (cross-correlograms)
+---------------------------------------------------------------------------------------------------------------------------------
